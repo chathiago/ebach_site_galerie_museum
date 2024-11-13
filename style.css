@@ -1,0 +1,48 @@
+header nav a {
+    letter-spacing: 0.2em;
+}
+
+footer nav p {
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.em-wide {
+    letter-spacing: 0.4em;
+}
+
+.container {
+    padding: 36px;
+    max-width: 100%;
+}
+
+.container-carousel {
+    max-width: 100%;
+}
+
+h2 {
+    padding-bottom: 24px;
+}
+
+.card {
+    border: 0; border-radius: 0;
+    background-color: #f9f6ee;
+}
+
+.card-style {
+    padding-bottom: 24px;
+}
+
+.card:hover {
+    transform: scale(1.01);
+    transition: 0.5s;
+}
+
+.btn {
+    margin-top: 16px;
+    border-radius: 0;
+}
+
+.col-4 {
+    margin-top: 28px;
+}
